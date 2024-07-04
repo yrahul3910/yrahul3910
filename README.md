@@ -1,28 +1,19 @@
-### Hi there 👋
-
 <h1> Hi! I'm <a href="http://ryedida.me" target="_blank">Rahul Yedida</a></h1>
 
-![](https://visitor-badge.glitch.me/badge?page_id=yrahul3910)
-<!--
-**yrahul3910/yrahul3910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --> 
-
-I'm a software engineer and research scientist in training as a Ph.D. student under [Dr. Menzies](http://menzies.us/). I am passionate about applying and improving deep learning, both theoretically and experimentally. 
+I'm an ML researcher and earned my Ph.D. under [Dr. Tim Menzies](http://timm.fyi/). I am excited about using advances in theoretical ML to speed up and improve performance of deep learning systems. I'm also a self-taught software developer and am comfortable using the MERN stack.
 
 ---
 ### A little more about me... 
 
 - 🔭 I’m currently exploring the synergy between deep learning and SE.
-- 💬 Ask me about social issues, privacy, deep learning, or if you just want to chat, I am happy to meet and get to know more people. 
+- 💬 Talk to me about web development, privacy, deep learning, coffee, or Taylor Swift! Or if you just want to chat, I am happy to meet new people. 
 - 😄 Pronouns: he/him
-- 👯 Updates : 
 
 ### You can find me on:
-📫 [E-mail](mailto:r.yedida@pm.me?subject=[GitHub]%20Source%20Readme)
+📫 [E-mail](mailto:hello@ryedida.me?subject=[GitHub]%20Hello!)
 🏡 [Website][website] **|** 
 👔 [LinkedIn][linkedin]
 
-
-[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [website]: http://ryedida.me
 [twitter]: https://twitter.com/yrahul3910
 [linkedin]: https://www.linkedin.com/in/rahul-yedida/
