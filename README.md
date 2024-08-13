@@ -5,9 +5,9 @@ I'm an ML researcher and earned my Ph.D. under [Dr. Tim Menzies](http://timm.fyi
 ---
 ### A little more about me... 
 
-- 🔭 I’m currently exploring the synergy between deep learning and SE.
-- 💬 Talk to me about web development, privacy, deep learning, coffee, or Taylor Swift! Or if you just want to chat, I am happy to meet new people. 
-- 😄 Pronouns: he/him
+- My research focuses on using theoretical ML advances to improve applied ML systems.
+- Talk to me about web development, privacy, deep learning, coffee, or Taylor Swift! Or if you just want to chat, I am happy to meet new people. 
+- I use neovim, btw
 
 ### You can find me on:
 📫 [E-mail](mailto:hello@ryedida.me?subject=[GitHub]%20Hello!)
