@@ -1,13 +1,8 @@
 <h1> Hi! I'm <a href="http://ryedida.me" target="_blank">Rahul Yedida</a></h1>
 
-I'm an ML researcher and earned my Ph.D. under [Dr. Tim Menzies](http://timm.fyi/). I am excited about using advances in theoretical ML to speed up and improve performance of deep learning systems. I'm also a self-taught software developer and am comfortable using the MERN stack.
+I'm an ML researcher and earned my Ph.D. under [Dr. Tim Menzies](http://timm.fyi/). I am excited about using advances in theoretical ML to speed up and improve performance of deep learning systems. My [research](https://scholar.google.com/citations?user=0lP2AvkAAAAJ&hl=en) achieved state-of-the-art results for several ML4SE tasks, including defect prediction, code smell detection, and finding actionable static code warnings.
 
----
-### A little more about me... 
-
-- My research focuses on using theoretical ML advances to improve applied ML systems.
-- Talk to me about web development, privacy, deep learning, coffee, or Taylor Swift! Or if you just want to chat, I am happy to meet new people. 
-- I use neovim, btw
+I usually also work on side projects, building tools or applications that I want/need. Currently, that is a [RAG system for Zotero](https://github.com/zotero-rag/zotero-rag), written entirely in Rust. Oddly enough, the most fulfiling parts of that project were building the PDF parser.
 
 ### You can find me on:
 📫 [E-mail](mailto:hello@ryedida.me?subject=[GitHub]%20Hello!)
