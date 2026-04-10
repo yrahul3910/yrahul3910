@@ -12,6 +12,3 @@ I usually also work on side projects, building tools or applications that I want
 [website]: http://ryedida.me
 [twitter]: https://twitter.com/yrahul3910
 [linkedin]: https://www.linkedin.com/in/rahul-yedida/
-
-
-[![Rahul's GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=yrahul3910&show_icons=true&title_color=fff&icon_color=F2BDFF&text_color=9f9f9f&bg_color=151515)](https://github-readme-stats.vercel.app/api?username=yrahul3910)
